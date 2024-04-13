@@ -2,7 +2,7 @@
 #define TOTAL 100
 
 typedef struct {
-    int prioridade;
+    int prioridade; 
     char descricao[300];
     char categoria[100];
 } Tarefa;
